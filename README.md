@@ -5,4 +5,4 @@ hello
 ## I am in dev. 
 
 ## edit in dev
-edit in master
+edit in master and dev
